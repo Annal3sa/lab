@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/menus/Main Menu.unity
+    guid: 21bf3bcb029159e4e991ffcf19f6cc37
+  - enabled: 1
+    path: Assets/Scenes/Game Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/menus/controls.unity
+    guid: 6d955a5485eabed48b5d9caef0fb3412
+  - enabled: 1
+    path: Assets/Scenes/menus/Settings.unity
+    guid: 622cff7ab3dac8240906fd7d4a3db9df
+  - enabled: 1
+    path: Assets/Scenes/shoutouts/special thanks.unity
+    guid: 804bf14fea339284aa717a1e7b8c5f48
+  - enabled: 1
+    path: Assets/Scenes/sprites/sprites made by lazzy.unity
+    guid: 46166bdff03753744a500b2643d3b0b8
+  - enabled: 1
+    path: Assets/Scenes/shoutouts/Creator.unity
+    guid: 2732c27e2a2812f4488d7cdae1b2687a
+  - enabled: 1
+    path: Assets/Scenes/sprites/sprites by me.unity
+    guid: 0b58616e88ab5494b810d1b1456a144b
+  - enabled: 1
+    path: Assets/Scenes/sprites/unused sprites.unity
+    guid: cdbcad15898d3074bb8943c43952f8ca
   m_configObjects: {}
