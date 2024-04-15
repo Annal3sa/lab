@@ -4,9 +4,9 @@ using UnityEngine;
 using Pathfinding;
 
 public class Enemy: MonoBehaviour
+
 {
     public AIPath aiPath;
-
 
     void Update()
     {

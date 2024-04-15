@@ -6,9 +6,9 @@ using UnityEngine.SceneManagement;
 public class MenuManager : MonoBehaviour
 {
 
-   public void StartNew()
+    public void StartNew()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(9);
     }
 
     public void Exit()
@@ -55,5 +55,80 @@ public class MenuManager : MonoBehaviour
     public void UnusedSprites()
     {
         SceneManager.LoadScene(8);
+    }
+
+    public void One()
+    { 
+        SceneManager.LoadScene(10);
+    }
+
+    public void two()
+    {
+        SceneManager.LoadScene(11);
+    }
+
+    public void three()
+    {
+        SceneManager.LoadScene(12);
+    }
+
+    public void four()
+    {
+        SceneManager.LoadScene(13);
+    }
+
+    public void five()
+    {
+        SceneManager.LoadScene(14);
+    }
+
+    public void six()
+    {
+        SceneManager.LoadScene(15);
+    }
+
+    public void seven()
+    { 
+        SceneManager.LoadScene(16);
+    }
+
+    public void eight()
+    {
+        SceneManager.LoadScene(17);
+    }
+
+    public void nine()
+    { 
+        SceneManager.LoadScene(18);
+    }
+
+    public void ten()
+    {
+        SceneManager.LoadScene(19);
+    }
+
+    public void eleven()
+    { 
+        SceneManager.LoadScene(20);
+    }
+
+    public void twelve()
+    {
+        SceneManager.LoadScene(21);
+    }
+
+    public void thirteen()
+    {
+        SceneManager.LoadScene(22);
+    }
+
+   public void fourteen()
+    {
+        SceneManager.LoadScene(23);
+    }
+
+    public void fifteen()
+    {
+        SceneManager.LoadScene(1);
     }
 }

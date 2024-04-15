@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    private float speed = 2.5f;
+    private float speed = 3.5f;
     private Rigidbody2D playerRb;
     private SpriteRenderer sprite;
 
@@ -35,5 +35,5 @@ public class PlayerController : MonoBehaviour
         transform.Translate(Vector3.right * speed * horizontalInput * Time.deltaTime);
     }
 
- 
+  
 }
